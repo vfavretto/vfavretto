@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔄 Transição de Carreira para Tecnologia<br>Atualmente, estou em plena transição de carreira para a área de tecnologia, impulsionado pela minha paixão por inovação e desenvolvimento.<br><br>🎓 Formação Acadêmica<br>Estou cursando Desenvolvimento de Software Multiplataforma na Fatec, onde tenho expandido meu conhecimento em diversas tecnologias.<br><br>⚖️ Background Profissional<br>Minha trajetória profissional inclui uma sólida formação e atuação na área jurídica, além de alguns anos dedicados ao mundo dos Esports.<br><br>🎮 Interesses Pessoais<br>Fora do trabalho e dos estudos, gosto de me manter atualizado sobre as últimas tendências em tecnologia, jogar games de estratégia e praticar mantras budistas para equilibrar mente e corpo.</p>
+<p align="left">👋 Olá! Sou um Desenvolvedor Fullstack apaixonado por construir soluções web inovadoras com foco em Node.js e React. Atualmente, aprimoro minhas habilidades no curso de Desenvolvimento de Software Multiplataforma na Fatec. Nos meus projetos, você pode ver minha dedicação em criar aplicações completas e eficientes. Sinta-se à vontade para explorar meus repositórios e entre em contato caso tenha alguma oportunidade ou queira trocar ideias!</p>
 
 ###
 
