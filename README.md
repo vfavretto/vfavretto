@@ -1,6 +1,4 @@
 <!-- Início do README -->
-
-<h1 align="center">Olá, eu sou o Victor Favretto </h1>
 <h3 align="center">Desenvolvedor Fullstack | Node.js | React | TypeScript</h3>
 
 Sobre Mim
