@@ -1,65 +1,66 @@
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBodzA0MjQwNHFscGF6bXQ4bnk0anc2MjMzNG1tcjVxdm0zZ2FkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KazYtoXQkYy6BlkOwG/giphy.webp"  />
+<!-- Início do README -->
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">👋 Olá! Sou um Desenvolvedor Fullstack apaixonado por construir soluções web inovadoras com foco em Node.js e React. Atualmente, aprimoro minhas habilidades no curso de Desenvolvimento de Software Multiplataforma na Fatec. Nos meus projetos, você pode ver minha dedicação em criar aplicações completas e eficientes. Sinta-se à vontade para explorar meus repositórios e entre em contato caso tenha alguma oportunidade ou queira trocar ideias!</p>
-
-###
+<!-- GIF e Título -->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/victor-favretto-4543492a3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="vf.favretto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-  <a href="https://x.com/dev_fah" target="blank">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
-  </a>
+<img src="https://media.giphy.com/media/u2pmLmVssPslgHwe9I/giphy.gif" width="200"/>
 </div>
 
-###
+<h1 align="center">Olá, eu sou o Victor Favretto 👋</h1>
+<h3 align="center">Desenvolvedor Fullstack | Node.js | React | TypeScript</h3>
 
-<h3 align="left">🛠 Linguagens e ferramentas:</h3>
+Sobre Mim
+<p align="left">
+Sou um Desenvolvedor Fullstack cursando <strong>Desenvolvimento de Software Multiplataforma</strong> na FATEC. Minha paixão é transformar ideias em realidade digital, construindo aplicações web completas, eficientes e com ótima experiência de usuário.
+</p>
 
-###
+<p align="left">
+Tenho focado meus estudos e projetos no ecossistema JavaScript, com sólida experiência em <strong>React</strong> e <strong>TypeScript</strong> para o frontend, e <strong>Node.js</strong> para o backend. Estou sempre em busca de novos desafios e oportunidades para aprender e colaborar.
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" height="45" alt="Typescript Logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height="45" alt="NodeJs Logo"  />
-  <img width="12" />
-</div>
+<p align="left">
+Sinta-se à vontade para explorar meus projetos e entrar em contato!
+</p>
 
-###
+📬 Conecte-se comigo
+<p align="left">
+<a href="https://www.linkedin.com/in/victor-favretto-4543492a3/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+</a>
+<a href="mailto:vf.favretto@gmail.com" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
+</a>
+<a href="https://x.com/dev_fah" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo" />
+</a>
+</p>
 
-<h3 align="left">🔥 Stats :</h3>
+🛠️ Tech Stack
+<p align="left">
+<strong>Frontend:</strong><br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular" />
+</a>
+</p>
 
-###
+<p align="left">
+<strong>Backend & Banco de Dados:</strong><br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,mongodb" />
+</a>
+</p>
 
+<p align="left">
+<strong>Ferramentas:</strong><br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</a>
+</p>
+
+🔥 Minhas Estatísticas no GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vFavretto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vFavretto&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=vFavretto&layout=compact&langs_count=6&theme=nightowl" alt="Linguagens mais usadas" />
 </div>
 
-###
+<!-- Fim do README -->
