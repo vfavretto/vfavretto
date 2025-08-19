@@ -1,12 +1,6 @@
 <!-- Início do README -->
 
-<!-- GIF e Título -->
-
-<div align="center">
-<img src="https://media.giphy.com/media/u2pmLmVssPslgHwe9I/giphy.gif" width="200"/>
-</div>
-
-<h1 align="center">Olá, eu sou o Victor Favretto 👋</h1>
+<h1 align="center">Olá, eu sou o Victor Favretto </h1>
 <h3 align="center">Desenvolvedor Fullstack | Node.js | React | TypeScript</h3>
 
 Sobre Mim
