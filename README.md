@@ -31,14 +31,14 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato!
 <p align="left">
 <strong>Frontend:</strong><br>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind" />
 </a>
 </p>
 
 <p align="left">
 <strong>Backend & Banco de Dados:</strong><br>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,mongodb,postgresql,aws,docker" />
 </a>
 </p>
 
