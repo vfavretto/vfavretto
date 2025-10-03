@@ -27,7 +27,7 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato!
 </a>
 </p>
 
-🛠️ Tech Stack
+Tech Stack
 <p align="left">
 <strong>Frontend:</strong><br>
 <a href="https://skillicons.dev">
