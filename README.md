@@ -49,10 +49,4 @@ Tech Stack
 </a>
 </p>
 
-🔥 Minhas Estatísticas no GitHub
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vFavretto&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=vFavretto&layout=compact&langs_count=6&theme=nightowl" alt="Linguagens mais usadas" />
-</div>
-
 <!-- Fim do README -->
